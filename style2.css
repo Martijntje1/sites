@@ -1,0 +1,70 @@
+
+.boxip{
+    text-align: center;
+    border: 5px solid rgb(63, 62, 62);
+    background-color: rgb(63, 62, 62);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 30px;
+}
+body{
+    background-color: rgb(87, 181, 224);
+}
+#nav{
+    border: 7px solid rgb(0, 0, 0);
+    background-color: rgb(238, 120, 253);
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+}
+.Owner{
+    color: goldenrod;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(63, 62, 62);
+    border: 5px solid rgb(63, 62, 62);
+}
+.box{
+    background-color: rgb(63, 62, 62);
+    border: 5px solid rgb(63, 62, 62);
+    border-radius: 50px;
+}
+#admin{
+    color: rgb(194, 3, 3);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mod{
+    color: green;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#help{
+    color: aqua;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#build{
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(87, 181, 224);
+}
+a:active{
+    color: darkred;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: inline;
+}
+li{
+    display: inline;
+}
